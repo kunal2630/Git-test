@@ -1,4 +1,4 @@
-git init  --> Give your file superpower of git
+git init  --> Give your file superpower of git.
 
 git add <file_name> --> move code from working area to staged area
 
